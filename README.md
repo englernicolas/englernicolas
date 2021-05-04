@@ -21,8 +21,6 @@ I’m currently trying to improve my skills on SpringBoot and VueJs
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
   
   ### Learning :seedling:
-  
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></img>
   
 ## Reach me :mailbox:
